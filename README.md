@@ -7,6 +7,8 @@
 | **NIM**         | 312110152         |
 | **Kelas**       | TI.21.A.1         |
 | **Mata Kuliah** | Kriptografi       |
+### File main.py
+**Outputnya :**
 
 ![Gambar 1](1.png)
 ### Penjelasan
@@ -49,6 +51,9 @@ Program ini merupakan implementasi dari enkripsi XOR sederhana menggunakan Pytho
   - Menampilkan hasil dekripsi dalam bentuk karakter.<br>
 
 Secara keseluruhan, program ini adalah implementasi sederhana dari enkripsi dan dekripsi XOR menggunakan nilai ASCII dari plaintext dan kunci.
+
+### File index.php
+**Outputnya :**
 
 ![Gambar 2](2.png)
 ### Penjelasan
